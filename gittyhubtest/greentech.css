@@ -1,0 +1,70 @@
+h1{color:black; }
+.hi{background-color:lightgreen; border-radius: 6px;align-content:right;padding:2px 0px 2px 6px;border-bottom-right-radius: 6px;}
+img{size: height:150px; width: 100px}
+.me{ width:100px;padding:5px 5px 0px 5px; float: left;border-bottom:0px;}
+.who{padding: 5px 5px 35px 4px}
+header{background-color: lightgreen;justify-content:center;}
+.kk{float:right;}
+
+ul{
+	margin:6px; 
+	padding:6px;
+	background-size: cover;
+list-style:none;
+ align-content:center;
+ position:none;}
+
+ul li{
+	float: left;
+	width: 90px;
+	height:25px;
+	background-color:green;
+	opacity:.9;
+	line-height: 25px;
+	text-align: center;
+position:relative;
+padding-top: 0px;
+margin: 0px;
+
+	font-size: 15px;
+	align-content: center;
+}
+
+ul li a{
+text-decoration: none;
+color: white;
+display:block;	
+
+align-content: center;
+}
+
+
+
+ul li a:hover {
+	background-color:black
+  
+
+}
+
+
+ul li ul li{
+	display: none;
+}
+
+ ul li:hover ul li{
+	display: block;
+
+}
+.ll {border-radius: 6px 0px 0px 0px}
+.ll :hover{background-color: black;border-radius: 6px 0px 0px 0px}
+
+ .uu {border-radius: 0px 0px 12px 0px}
+ .uu :hover{background-color: black;border-radius: 0px 0px 12px 0px}
+
+
+
+
+
+
+
+ 
